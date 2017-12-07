@@ -1,5 +1,5 @@
 # LoseYourselfAlexa
-An Alexa Skill that sings you Lose Yourself by Eminem upon request.
+An Alexa Skill that reads off a set of lyrics
 
 
 It can be deployed through AWS Lambda.
